@@ -1,7 +1,7 @@
-# vue-admin
+# 黑马智数项目（vue-admin）
 
-> 基于vue-admin-template的二次定制脚手架，去掉了一些繁琐的东西，升级了一些包
+> 此为黑马程序员的前端实战项目，使用vue-admin-template作为基础模板，在此基础上进行二次开发。
 
-**Live demo:** http://panjiachen.github.io/vue-admin-template
+
 
 
